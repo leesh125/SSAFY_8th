@@ -1,0 +1,18 @@
+package track3;
+
+import java.util.ArrayList;
+import java.util.List;
+
+class Employee {
+	String name = "kim";
+	public String toString() { return name;}
+	public static void main(String[] args) {
+		Employee e = new Employee();
+		System.out.println(e);
+	}
+}
+public class Test {
+
+	
+
+}

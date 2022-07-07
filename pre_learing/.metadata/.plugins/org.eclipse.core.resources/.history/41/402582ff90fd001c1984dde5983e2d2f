@@ -1,0 +1,13 @@
+package track3;
+
+class Employee {
+
+	String name = "KIM";
+	public String toString() { return name;}
+	
+	public static void main(String[] args) {
+		Employee e = new Employee();
+		System.out.println(e);
+	}
+
+}

@@ -1,0 +1,22 @@
+package track3;
+
+import java.util.ArrayList;
+import java.util.List;
+
+class Employee {
+	Employee() { System.out.println("cc ");}
+	void work() { System.out.println("ww ");}
+}
+public class Test {
+
+	public static void main(String[] args) {
+		int jumsu = 70;
+		if(jumsu > 70 ) {
+			System.out.println("Aaa");
+		}else {
+			System.out.println("FFF");
+		}
+
+	}
+
+}

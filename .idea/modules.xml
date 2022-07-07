@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pre_learing/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" filepath="$PROJECT_DIR$/pre_learing/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pre_learing/java_tutorials/java_tutorials.iml" filepath="$PROJECT_DIR$/pre_learing/java_tutorials/java_tutorials.iml" />
+    </modules>
+  </component>
+</project>

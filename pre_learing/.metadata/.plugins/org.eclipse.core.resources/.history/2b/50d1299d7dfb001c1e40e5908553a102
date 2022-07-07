@@ -1,0 +1,12 @@
+package org.opentutorials.javatutorials.array;
+
+public class GetDemo {
+
+	public static void main(String[] args) {
+		
+		String[] classGroup = { "ÃÖÁøÇõ", "ÃÖÀ¯ºó", "ÇÑÀÌ¶÷", "ÀÌ°íÀ×" };
+		System.out.println(classGroup[0]);
+
+	}
+
+}

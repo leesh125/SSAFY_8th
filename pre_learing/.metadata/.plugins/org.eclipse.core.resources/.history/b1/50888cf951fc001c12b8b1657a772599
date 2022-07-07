@@ -1,0 +1,27 @@
+package org.opentutorials.javatutorials.object;
+
+public class CalculatorDemo2 {
+	private static void sum(int i, int j) {
+		System.out.println(i + " + " + j + " = " + (i+j));
+		
+	}
+
+	static void a() {
+		static int i = 10;
+		b();
+	}
+	
+	static void b() {
+		System.out.println(i);
+	}
+	
+	public static void main(String[] args) {
+		sum(10,20);
+		sum(20,40);
+		
+		int i = 1;
+		a();
+	}
+
+	
+}

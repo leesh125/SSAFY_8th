@@ -1,0 +1,13 @@
+package track3;
+
+
+	
+public class Test2 {
+
+	public static void main(String[] args) {
+		int[] n = {10,20,30,40,15};
+		for(int a : n)
+			if (a < 30 ) System.out.print(a + " ");
+	}
+
+}

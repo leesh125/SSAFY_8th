@@ -1,0 +1,13 @@
+package org.opentutorials.javatutorials.datatype;
+
+public class IntDatatypeDemo {
+
+	public static void main(String[] args) {
+		byte a;
+		//a = 128; // byte ดย 127 ฑ๎ม๖
+		float b = 2.2f;
+		double c = 2.2;
+
+	}
+
+}

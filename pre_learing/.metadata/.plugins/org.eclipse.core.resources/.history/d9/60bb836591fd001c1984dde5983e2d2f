@@ -1,0 +1,17 @@
+package track3;
+
+class Employee {
+	void work() {System.out.println("w1");
+}
+class PartEmployee extends Employee {
+	void work() { System.out.println("w2");
+}
+public class Test2 {
+
+	public static void main(String[] args) {
+		Employee e = new PartEmployee();
+		e.work();
+
+	}
+
+}

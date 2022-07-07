@@ -1,0 +1,20 @@
+package track3;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Test {
+
+	public static void main(String[] args) {
+		List s = new ArrayList<>();
+		s.add("서울");
+		s.add("구미");
+		s.add("광주");
+		s.add("대전");
+		s.add("부울경");
+		s.add("서울");
+		System.out.println(s);
+
+	}
+
+}

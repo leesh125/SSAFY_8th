@@ -1,0 +1,30 @@
+package track3;
+
+class Product {
+	void info() {System.out.println("w1");}
+}
+class TV extends Product {
+	void info() {
+		super.info();
+	}
+}
+
+	
+public class Test2 {
+	
+	public static void main(String[] args) {
+		int jumsu = 100;
+		switch( jumsu/ 10) {
+		case 10:
+		case 9:
+			System.out.print("A");
+		case 8:
+			System.out.print("B");
+		case 7:
+			System.out.print("C");
+		default:
+			System.out.print("F");
+		}
+	}
+
+}

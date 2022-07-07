@@ -1,0 +1,17 @@
+package track3;
+
+	
+public class Test2 {
+
+	public static void main(String[] args) {
+		int[] n = {5,6,7,8,9,10};
+		int total = 0;
+		for(int a: n) {
+			if( a% 2 == 1) total += a;
+			if(total > 10)
+				break;
+		}
+		System.out.println(total);
+	}
+
+}

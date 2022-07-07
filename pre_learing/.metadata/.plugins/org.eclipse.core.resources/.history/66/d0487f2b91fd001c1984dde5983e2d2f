@@ -1,0 +1,20 @@
+package track3;
+
+import java.util.ArrayList;
+import java.util.List;
+
+class Employee {
+	void work() {System.out.println("w1");
+}
+class PartEmployee extends Employee {
+	void work() { System.out.println("w2");
+}
+
+public class Test {
+	public static void main(String[] args) {
+		Employee e = new PartEmployee();
+		a.work;
+	}
+	
+
+}

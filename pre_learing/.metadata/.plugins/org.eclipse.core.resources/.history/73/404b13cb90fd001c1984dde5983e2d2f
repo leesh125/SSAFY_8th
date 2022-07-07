@@ -1,0 +1,17 @@
+package track3;
+
+import java.util.ArrayList;
+import java.util.List;
+
+class Employee {
+	Employee() { System.out.println("cc ");}
+	void work() { System.out.println("ww ");}
+}
+public class Test {
+
+	public static void main(String[] args) {
+		int n = 17 / 4 + 3.5;
+		System.out.println(n);
+	}
+
+}

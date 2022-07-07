@@ -1,0 +1,22 @@
+package track3;
+
+
+	
+public class Test2 {
+
+	public static void main(String[] args) {
+		int jumsu = 100;
+		switch( jumsu/ 10) {
+		case 10:
+		case 9:
+			System.out.println("A");
+		case 8:
+			System.out.println("B");
+		case 7:
+			System.out.println("C");
+		default:
+			System.out.println("F");
+		}
+	}
+
+}
